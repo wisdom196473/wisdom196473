@@ -38,7 +38,6 @@ I'm not just a data scientist; I'm a problem solver who can:
 I'm eager to bring my expertise in data science, machine learning, and AI to your team. Whether you're looking for a Data Scientist, Data Analyst, Business Intelligence Engineer, Quantitative Analyst, or Data Engineer, I'm ready to contribute to your organization's success.
 
 📧 Email: chen196473@gmail.com
-📱 Phone: +1-412-996-9891
 🔗 LinkedIn: [Wisdom's LinkedIn](https://www.linkedin.com/in/wisdom-chen/)
 🌐 Portfolio: [Wisdom's Portfolio](https://wisdom196473.wixsite.com/website)
 
