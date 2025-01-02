@@ -39,6 +39,7 @@ I'm eager to bring my expertise in data science, machine learning, and AI to you
 
 📧 Email: chen196473@gmail.com
 📱 Phone: +1-412-996-9891
-🌐 Portfolio: [https://wisdom196473.wixsite.com/website](https://wisdom196473.wixsite.com/website)
+🔗 LinkedIn: [Wisdom's LinkedIni](https://www.linkedin.com/in/wisdom-chen/)
+🌐 Portfolio: [Wisdom's Portfolio](https://wisdom196473.wixsite.com/website)
 
 Let's turn data into decisions and insights into impact!
